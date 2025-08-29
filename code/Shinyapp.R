@@ -3,6 +3,12 @@
 # Shiny QSP PF-06671008 (Humanos + Ratón)
 # =========================================================
 
+# Si no se tienen intalado, intalar las siguientes librerias:
+# install.packages("shiny")
+# install.packages("deSolve")
+# install.packages("ggplot2")
+# install.packages("pracma")
+
 library(shiny)
 library(deSolve)
 library(ggplot2)
